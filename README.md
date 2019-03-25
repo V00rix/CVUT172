@@ -2,7 +2,7 @@
 
 
 
-#### [1. Pravděpodobnost a statistika](http://math.feld.cvut.cz/helisova/)
+#### [1. Pravděpodobnost a statistika](http://math.feld.cvut.cz/helisova/01pstD.html)
 
   
 
