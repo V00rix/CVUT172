@@ -36,7 +36,7 @@ Zápočet + **Zkouška**
 
 #### 4. Návrh softwarových systémů
 c
-#### 5. Semestrální projekt
+#### 5. [Semestrální projekt](https://cw.fel.cvut.cz/wiki/courses/b6b36pro/start)
 
 #### 6. Řízení softwarových projektů
 
