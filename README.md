@@ -9,8 +9,6 @@
 
 
 #### [3. Datové struktury a algoritmy](https://cw.fel.cvut.cz/b182/courses/bd6b36dsa/start)
-- [x] Test 22.3.
-  - [ ] Jestli je OK
 - [ ] Test 3.5.
 - [ ] [Odevzdat 6 domácích úloh](http://dsa.squeezer.felk.cvut.cz/hwzadani/)
   - [x] 1
@@ -24,24 +22,19 @@
 
 
 #### 8. Multimedia 2
-- [ ] Разобраться с енвелоуп,
-- [ ] Modification field, traveling **Sound**, hitting effects
-- [ ] Actually changing sound on effects hit
-
+- [ ] **Normalnii** flanger plez
+- [ ] Картинки, гифки, видео + звук?
+- [ ] Konsultace + prezentace (mail)
+- [ ] Klima??? (mail)
 
   
 #### 5. [Semestrální projekt](https://cw.fel.cvut.cz/wiki/courses/b6b36pro/start)
-- [ ] Пробежаться по материалам, по коду, запустить прогу
-- [ ] Пирдумать что делать, согласовать с чуваками
-- [ ] Написать zadání
+- [ ] План, график (todo) 
 
-
-
-______
 
 
 #### 7. Japonština
 - Chodit na cviceni, uspešně složit test na konci semestru (**započet**)
 
 #### 9. Anglický jazyk B2 - zkouška
-- [ ] Kdy je zkouska?
+- [ ] Razobratsya s mailom i che voobshe eto znachit vse?
