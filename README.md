@@ -6,6 +6,10 @@
 - [ ] [Zadaní z pravděpodobností](http://math.feld.cvut.cz/helisova/01PSTpriklady1.pdf)
 - [ ] [Zadani z staistiky](http://math.feld.cvut.cz/helisova/01PSTpriklady2.pdf)
 
+[Full info](http://cmp.felk.cvut.cz/~navara/MVT/MVT_print.pdf)
+[Notes](http://math.feld.cvut.cz/helisova/01PST_zapisky.pdf)
+
+
 
 
 #### [3. Datové struktury a algoritmy](https://cw.fel.cvut.cz/b182/courses/bd6b36dsa/start)
