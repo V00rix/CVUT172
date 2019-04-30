@@ -1,4 +1,13 @@
-1. [**ulice Kamenická**, Praha 7 - část obce Bubeneč](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-bubenec-ulice-kamenicka/3244068444#img=17&fullscreen=false)
+- Среда
+   - 12:30 [Na Zderaze, Praha 2 - Nové Město](https://reality.idnes.cz/detail/pronajem/byt/praha-2-na-zderaze/5c6acedde88054501962cc6a/?s-et=flat&s-ot=lease&s-l=VUSC-19&s-qc%5BsubtypeFlat%5D%5B0%5D=31&s-qc%5BsubtypeFlat%5D%5B1%5D=4k&s-qc%5BsubtypeFlat%5D%5B2%5D=41&s-qc%5BsubtypeFlat%5D%5B3%5D=5k&s-qc%5BsubtypeFlat%5D%5B4%5D=51&s-qc%5BsubtypeFlat%5D%5B5%5D=atypical&s-qc%5BpriceMax%5D=30000&page=13)
+   - 13:30 [Legerova, praha 1 (IPPavlova)](https://reality.idnes.cz/detail/pronajem/byt/praha-1-legerova/5cb458dae880543f4d574b11/?s-et=flat&s-ot=lease&s-l=VUSC-19&s-qc%5BsubtypeFlat%5D%5B0%5D=31&s-qc%5BsubtypeFlat%5D%5B1%5D=4k&s-qc%5BsubtypeFlat%5D%5B2%5D=41&s-qc%5BsubtypeFlat%5D%5B3%5D=5k&s-qc%5BsubtypeFlat%5D%5B4%5D=51&s-qc%5BsubtypeFlat%5D%5B5%5D=atypical&s-qc%5BpriceMax%5D=30000&page=7)
+
+- Четверг
+   - 14:30 [Vinohradská](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-vinohrady-ulice-vinohradska/3231878748#img=3&fullscreen=false)
+   - 16:30 [Vrázova 8](https://www.sreality.cz/detail/pronajem/byt/5+kk/praha-cast-obce-smichov-ulice-vrazova/1880329820#img=11&fullscreen=false)
+   - 17:30 [Bubenská](https://www.sreality.cz/detail/pronajem/byt/4+1/praha-cast-obce-holesovice-ulice-bubenska/1208979036#img=9&fullscreen=false)
+
+1. [Kamenická, Praha 7 - část obce Bubeneč](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-bubenec-ulice-kamenicka/3244068444#img=17&fullscreen=false)
 
     **Написал мейл**
     
@@ -9,7 +18,7 @@
     - od 1.6??
 
 
-2. [**Jankovcova**](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-holesovice-ulice-jankovcova/619089500#img=11&fullscreen=false) 
+2. [Jankovcova](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-holesovice-ulice-jankovcova/619089500#img=11&fullscreen=false) 
 
     **~~Čekám na volání~~ мне позвонили но я говорил в это время, теперь уже не знаю хочу ли я её со всеми другими вариантами**
 
@@ -30,7 +39,7 @@
     - od ihned bez zvirat 
   
   
-4. [ulice Bubenská](https://www.sreality.cz/detail/pronajem/byt/4+1/praha-cast-obce-holesovice-ulice-bubenska/1208979036#img=9&fullscreen=false)
+4. [Bubenská](https://www.sreality.cz/detail/pronajem/byt/4+1/praha-cast-obce-holesovice-ulice-bubenska/1208979036#img=9&fullscreen=false)
 
     **ЧЕТВЕРГ 17:30**
 
@@ -40,7 +49,7 @@
     - od ihned
 
   
-5. [ulice Milíčova](https://www.sreality.cz/detail/pronajem/byt/4+1/praha-cast-obce-zizkov-ulice-milicova/2320080476#img=5&fullscreen=false)
+5. [Milíčova](https://www.sreality.cz/detail/pronajem/byt/4+1/praha-cast-obce-zizkov-ulice-milicova/2320080476#img=5&fullscreen=false)
 
     **Написал мейл**
 
@@ -50,7 +59,7 @@
     - od?
   
   
-6. [ulice Vrázova 8](https://www.sreality.cz/detail/pronajem/byt/5+kk/praha-cast-obce-smichov-ulice-vrazova/1880329820#img=11&fullscreen=false)
+6. [Vrázova 8](https://www.sreality.cz/detail/pronajem/byt/5+kk/praha-cast-obce-smichov-ulice-vrazova/1880329820#img=11&fullscreen=false)
     
     **ЧЕТВЕРГ 16:30**
 
@@ -64,7 +73,7 @@
     - ihned
    
 
-7. [ulice dr. Zikmunda Wintra](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-bubenec-ulice-dr--zikmunda-wintra/275988828#img=8&fullscreen=false)
+7. [dr. Zikmunda Wintra](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-bubenec-ulice-dr--zikmunda-wintra/275988828#img=8&fullscreen=false)
 
     **Написал мейл**
 
@@ -104,7 +113,7 @@
     - Od?
  
   
-11. [**Na Zderaze**, Praha 2 - Nové Město](https://reality.idnes.cz/detail/pronajem/byt/praha-2-na-zderaze/5c6acedde88054501962cc6a/?s-et=flat&s-ot=lease&s-l=VUSC-19&s-qc%5BsubtypeFlat%5D%5B0%5D=31&s-qc%5BsubtypeFlat%5D%5B1%5D=4k&s-qc%5BsubtypeFlat%5D%5B2%5D=41&s-qc%5BsubtypeFlat%5D%5B3%5D=5k&s-qc%5BsubtypeFlat%5D%5B4%5D=51&s-qc%5BsubtypeFlat%5D%5B5%5D=atypical&s-qc%5BpriceMax%5D=30000&page=13)
+11. [Na Zderaze, Praha 2 - Nové Město](https://reality.idnes.cz/detail/pronajem/byt/praha-2-na-zderaze/5c6acedde88054501962cc6a/?s-et=flat&s-ot=lease&s-l=VUSC-19&s-qc%5BsubtypeFlat%5D%5B0%5D=31&s-qc%5BsubtypeFlat%5D%5B1%5D=4k&s-qc%5BsubtypeFlat%5D%5B2%5D=41&s-qc%5BsubtypeFlat%5D%5B3%5D=5k&s-qc%5BsubtypeFlat%5D%5B4%5D=51&s-qc%5BsubtypeFlat%5D%5B5%5D=atypical&s-qc%5BpriceMax%5D=30000&page=13)
     
     **СРЕДА 12:30**
 
