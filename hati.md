@@ -1,7 +1,6 @@
 1. [**ulice Kamenická**, Praha 7 - část obce Bubeneč](https://www.sreality.cz/detail/pronajem/byt/3+1/praha-cast-obce-bubenec-ulice-kamenicka/3244068444#img=17&fullscreen=false)
 **Написал мейл**
-
-- jestli je ok pro 3?
+  - jestli je ok pro 3?
   - 25,000 + 3,500 / osoba??? = 
   - kauce ???
   - provize 25 000
